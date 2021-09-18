@@ -1,0 +1,27 @@
+ .bg-image{
+    background: #333 url(https://static.pexels.com/photos/248515/pexels-photo-248515.png);
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-size: cover;
+    width: 100%;
+    opacity: 0.9;
+}
+ #showcase {
+    
+    min-height: 450px;
+    color: #fff;
+    text-align: center;
+    z-index: -1;
+    
+}
+ .content-wrap{
+    padding: o 1.5em;
+
+}
+h1{
+    padding-top: 100px;
+    padding-bottom: 0;
+    
+}
